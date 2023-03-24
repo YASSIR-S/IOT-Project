@@ -22,7 +22,7 @@
 - [js](https://www.javascript.com/)
 - [Bootstrap](https://getbootstrap.com)
 - [Python](https://www.python.org/)
-- [Djangp](https://www.djangoproject.com/)
+- [Django](https://www.djangoproject.com/)
 - [Arduino](https://www.arduino.cc/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Python Anywhere](https://www.pythonanywhere.com/)
