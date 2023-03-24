@@ -4,6 +4,9 @@
 <div id="about-the-project"></div>
 Il s'agit d'une d'une conception d'un site web qui calcule la temperature a l'aide de la carte ESP8266 avec l'aide de Django et Arduino .
 
+
+
+
 <img width="949" alt="Result" src="https://user-images.githubusercontent.com/126347413/227396791-2662449c-c8e9-4cae-8061-3647582348e8.PNG">
 
 
